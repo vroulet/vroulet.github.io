@@ -9,8 +9,7 @@ redirect_from:
 {% include base_path %}
 
 
-Education
-======
+## Education
 * Ph.D in Optimization and Machine Learning, INRIA-ENS Ulm, 2017
   - "On the geometry of optimization problems and their structure"
   - Supervised by Alexandre d'Aspremont in SIERRA team
@@ -18,8 +17,7 @@ Education
 * B.S. in Applied Mathematics, Physics and Computer Science, Ecole Polytechnique, 2014
 
 
-Professional experience
-======
+## Professional experience
 * Postdoc, University of Washington, Seattle, 2018-now
 * Research intern, INRIA, Paris, Summer 2014
 * Research intern, Imperial College, London, Summer 2013

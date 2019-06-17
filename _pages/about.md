@@ -14,6 +14,4 @@ I've got my Ph.D. from [Ecole Normale Superieure Ulm](http://www.ens.fr) under t
 
 During my thesis, I worked on mathematical optimization approaches for data science problems with an underlying combinatorial structure and on the acceleration of optimization algorithms by restarts. I am now interested in non-linear control from an optimization perspective.
 
-More details can be found in my [CV](../files/cv_vroulet.pdf).
-
 Contact me at [v] [my last name] [at] uw [dot] edu [dot].
