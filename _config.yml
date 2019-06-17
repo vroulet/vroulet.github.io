@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vincent Roulet"
 title_separator          : "-"
 name                     : &name "Vincent Roulet"
-description              : &description "Optimization, Control, Machine Learning Researcher"
+description              : &description "Optimization and Machine Learning Researcher"
 url                      : https://vroulet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "VincentRoulet/vroulet.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Vincent Roulet"
   avatar           : "website_picture.JPG"
-  bio              : "Optimization, Control, Machine Learning Researcher"
-  location         : "Seattle"
-  employer         : "University of Washington"
+  bio              : "Optimization and Machine Learning Researcher"
+  location         : 
+  employer         : "University of Washington, Seattle, USA"
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=vwoZrVMAAAAJ&hl=fr"
-  email            : "vroulet@uw.edu"
+  email            : 
   researchgate     : 
   uri              :
   bitbucket        :
