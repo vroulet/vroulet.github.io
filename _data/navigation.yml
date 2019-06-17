@@ -3,4 +3,16 @@ main:
   - title: "Publications"
     url: /publications.html    
     
-    
+  - title: "Talks"
+    url: /talks.html
+
+  - title: "Software"
+    url: /software.html
+
+  - title: "Teaching"
+    url: /teaching.html
+
+  - title: "CV"
+    url: /cv.html
+
+

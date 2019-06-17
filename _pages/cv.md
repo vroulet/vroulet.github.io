@@ -16,3 +16,13 @@ Education
   - Supervised by Alexandre d'Aspremont in SIERRA team
 * M.S. in Machine Learning, ENS Cachan-Telecom ParisTech, 2014
 * B.S. in Applied Mathematics, Physics and Computer Science, Ecole Polytechnique, 2014
+
+
+Professional experience
+======
+* Postdoc, University of Washington, Seattle, 2018-now
+* Research intern, INRIA, Paris, Summer 2014
+* Research intern, Imperial College, London, Summer 2013
+* Intern, Astrium EADS, Bremen, Summer 2012
+
+Detailed [CV](/files/cv_vroulet.pdf).
