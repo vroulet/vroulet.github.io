@@ -37,7 +37,7 @@ Damien Scieur, Vincent Roulet, Francis Bach, Alexandre d'Aspremont.
 **Complexity versus Statistical Performance on Sparse Recovery Problems.**  
 Vincent Roulet, Nicolas Boumal, Alexandre d'Aspremont.  
 *To appear in Information and Inference: a Journal of the IMA.*  
-[paper](https://hal.archives-ouvertes.fr/hal-01664964.pdf)
+[paper](https://arxiv.org/abs/1506.03295)
 
 ## Under review/Technical reports
 **Kernel-based Translations of Convolutional Networks.**  
