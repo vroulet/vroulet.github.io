@@ -37,23 +37,25 @@ Damien Scieur, Vincent Roulet, Francis Bach, Alexandre d'Aspremont.
 **Complexity versus Statistical Performance on Sparse Recovery Problems.**  
 Vincent Roulet, Nicolas Boumal, Alexandre d'Aspremont.  
 *To appear in Information and Inference: a Journal of the IMA.*  
-[paper](https://arxiv.org/abs/1506.03295)
+[paper](https://arxiv.org/abs/1506.03295.pdf)
 
-## Under review/Technical reports
+## Working papers
+**On the Convergence to Stationary Points of the Iterative Linear Exponential Quadratic Gaussian Algorithm.**  
+Vincent Roulet, Maryam Fazel, Siddhartha Srinivasa, Zaid Harchaoui.  
+[paper](/files/risk_ctrl.pdf)
+[code](https://github.com/vroulet/ilqc)
+
 **Kernel-based Translations of Convolutional Networks.**  
 Corinne Jones, Vincent Roulet, Zaid Harchaoui.  
-*Submitted*  
 [paper](https://arxiv.org/abs/1903.08131.pdf)
 [code](https://github.com/cjones6/yesweckn)
 
 **Iterative Hard Clustering of Features.**  
 Vincent Roulet, Fajwel Fogel, Alexandre d'Aspremont, Francis Bach.  
-*Technical report.*  
-[paper](https://hal.archives-ouvertes.fr/hal-01664964.pdf)  
+[paper](https://hal.archives-ouvertes.fr/hal-01664964)  
 
 **Learning with Clustering Structure.**  
 Vincent Roulet, Fajwel Fogel, Alexandre d'Aspremont, Francis Bach.  
-*Technical report.*  
 [paper](https://arxiv.org/pdf/1506.04908.pdf)  
 
 ## PhD Thesis.  
