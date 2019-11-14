@@ -17,7 +17,7 @@ Vincent Roulet, Zaid Harchaoui.
 **Iterative Linearized Control: Stable Algorithms and Complexity Guarantees.**  
 Vincent Roulet, Siddharta Srinivasa, Dmitry Drusvyatskiy, Zaid Harchaoui.  
 *Proceedings of the 36th International Conference on Machine Learning (ICML 2019).*  
-[paper](http://proceedings.mlr.press/v97/roulet19a/roulet19a)
+[paper](http://proceedings.mlr.press/v97/roulet19a.html)
 [code](https://github.com/vroulet/ilqc)
 [poster](/files/reg_ctrl_poster.pdf)
 
@@ -41,7 +41,7 @@ Vincent Roulet, Alexandre d'Aspremont.
 [conference paper](https://papers.nips.cc/paper/6712-sharpness-restart-and-acceleration)
 [journal paper](/files/vroulet_restart.pdf)
 
-**Integration methods and Accelerated Optimization Algorithms.**  
+**Integration Methods and Accelerated Optimization Algorithms.**  
 Damien Scieur, Vincent Roulet, Francis Bach, Alexandre d'Aspremont.  
 *Advances in Neural Information Processing Systems 30 (NIPS 2017).*  
 [paper](https://papers.nips.cc/paper/6711-integration-methods-and-optimization-algorithms)
@@ -70,7 +70,7 @@ Vincent Roulet, Fajwel Fogel, Alexandre d'Aspremont, Francis Bach.
 [paper](https://arxiv.org/abs/1506.04908)   -->
 
 ## PhD Thesis  
-**On the geometry of optimization problems and their structure.**  
+**On the Geometry of Optimization Problems and their Structure.**  
 Vincent Roulet.  
 *PhD Thesis.*  
 [manuscript](https://tel.archives-ouvertes.fr/tel-01717933)
