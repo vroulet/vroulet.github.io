@@ -23,9 +23,9 @@ boosting, support vector machines, and variational approximations in inference.
 
 ## Teaching Assistant  
 **Convex Optimization**,  *2014-2017.*   
-*Master Mathematics, Vision, Learning, École Normale Supérieure Paris-Saclay, Paris.*  
+*Master Mathematics, Vision, Learning, École Normale Supérieure Paris-Saclay, Paris.*
+Taught by [Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon)   
 [website](https://www.di.ens.fr/~aspremon/OptConvexeM2.html)  
-[Professor Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon)  
 
 **Oral Interrogations in Maths**,  *2013-2014*   
 *Classes Préparatoires in Mathematics and Physics Lycée Janson de Sailly, Paris.*  
