@@ -23,7 +23,7 @@ boosting, support vector machines, and variational approximations in inference.
 
 ## Teaching Assistant  
 **Convex Optimization**,  *2014-2017.*   
-*Master Mathematics, Vision, Learning, École Normale Supérieure Paris-Saclay, Paris.*
+*Master Mathematics, Vision, Learning, École Normale Supérieure Paris-Saclay, Paris.*  
 Taught by [Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon)   
 [website](https://www.di.ens.fr/~aspremon/OptConvexeM2.html)  
 
@@ -35,7 +35,7 @@ Taught by [Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon)
 *Statistical Machine Learning for Data Scientists, University of Washington, Seattle.*     
 Lecture on automatic differentiation with code examples covering: how to compute gradients of
 a chain of computations, how to use automatic-differentiation software, how to use automatic-
-differentiation beyond gradient computations.
+differentiation beyond gradient computations.  
 [slides](/files/autodiff.pdf)
 
 **Optimization for deep learning**,  *Jul. 2018.*  
