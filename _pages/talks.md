@@ -39,7 +39,7 @@ Long Beach, Jun. 2019.
 **Integration Methods and Accelerated Optimization Algorithms.**  
 *Institut de Recherche en
 Informatique de Toulouse (IRIT).*  
-Toulouse, Jun. 2017  
+Toulouse, Jun. 2017.  
 [slides](/files/irit_integration.pdf)
 
 **Learning with Clustered Penalties.**  
