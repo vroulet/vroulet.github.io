@@ -11,7 +11,7 @@ redirect_from:
 ## Published
 **An Elementary Approach to Convergence Guarantees of Optimization Algorithms for Deep Networks.**  
 Vincent Roulet, Zaid Harchaoui.  
-*Proceedings of the 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton 2019)*
+*Proceedings of the 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton 2019).*  
 [paper](files/vroulet_elem_deep.pdf)
 
 **Iterative Linearized Control: Stable Algorithms and Complexity Guarantees.**  
@@ -23,7 +23,7 @@ Vincent Roulet, Siddharta Srinivasa, Dmitry Drusvyatskiy, Zaid Harchaoui.
 
 **Complexity versus Statistical Performance on Sparse Recovery Problems.**  
 Vincent Roulet, Nicolas Boumal, Alexandre d'Aspremont.  
-*Information and Inference: a Journal of the IMA. (2019)*  
+*Information and Inference: a Journal of the IMA, (2019).*  
 [paper](https://academic.oup.com/imaiai/advance-article/doi/10.1093/imaiai/iay020/5288445)
 
 **A Smoother Way to Train Structured Prediction Models.**  
@@ -37,8 +37,8 @@ Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.
 **Sharpness, Restart and Acceleration.**  
 Vincent Roulet, Alexandre d'Aspremont.  
 *(Conference version) Advances in Neural Information Processing Systems 30 (NIPS 2017).*  
-*(Journal version) To appear in SIAM Journal of Optimization  (SIOPT)*
-[conference paper](https://papers.nips.cc/paper/6712-sharpness-restart-and-acceleration)
+*(Journal version) To appear in SIAM Journal of Optimization  (SIOPT)*  
+[conference paper](https://papers.nips.cc/paper/6712-sharpness-restart-and-acceleration)  
 [journal paper](/files/vroulet_restart.pdf)
 
 **Integration methods and Accelerated Optimization Algorithms.**  
