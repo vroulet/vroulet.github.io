@@ -9,8 +9,8 @@ redirect_from:
 {% include base_path %}
 
 ## Published
-**An Elementary Approach to Convergence Guarantees of Optimization Algorithms for Deep Networks**
-Vincent Roulet, Zaid Harchaoui.
+**An Elementary Approach to Convergence Guarantees of Optimization Algorithms for Deep Networks.**  
+Vincent Roulet, Zaid Harchaoui.  
 *Proceedings of the 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton 2019)*
 [paper](files/vroulet_elem_deep.pdf)
 
@@ -36,7 +36,7 @@ Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.
 
 **Sharpness, Restart and Acceleration.**  
 Vincent Roulet, Alexandre d'Aspremont.  
-*(Conference version) Advances in Neural Information Processing Systems 30 (NIPS 2017).*
+*(Conference version) Advances in Neural Information Processing Systems 30 (NIPS 2017).*  
 *(Journal version) To appear in SIAM Journal of Optimization  (SIOPT)*
 [conference paper](https://papers.nips.cc/paper/6712-sharpness-restart-and-acceleration)
 [journal paper](/files/vroulet_restart.pdf)
@@ -57,8 +57,8 @@ Corinne Jones, Vincent Roulet, Zaid Harchaoui.
 [paper](https://arxiv.org/abs/1903.08131)
 [code](https://github.com/cjones6/yesweckn)
 
-**Learning Feature Representations for Discriminative Clustering with Limited Supervision**
-Corinne Jones, Vincent Roulet, Zaid Harchaoui.
+<!-- **Learning Feature Representations for Discriminative Clustering with Limited Supervision**  
+Corinne Jones, Vincent Roulet, Zaid Harchaoui.  
 [paper](https://www.stat.washington.edu/sites/default/files/2019-06/tr651.pdf)
 
 **Iterative Hard Clustering of Features.**  
@@ -67,9 +67,9 @@ Vincent Roulet, Fajwel Fogel, Alexandre d'Aspremont, Francis Bach.
 
 **Learning with Clustering Structure.**  
 Vincent Roulet, Fajwel Fogel, Alexandre d'Aspremont, Francis Bach.  
-[paper](https://arxiv.org/abs/1506.04908)  
+[paper](https://arxiv.org/abs/1506.04908)   -->
 
-## PhD Thesis.  
+## PhD Thesis  
 **On the geometry of optimization problems and their structure.**  
 Vincent Roulet.  
 *PhD Thesis.*  
