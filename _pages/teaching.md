@@ -30,7 +30,7 @@ boosting, support vector machines, and variational approximations in inference.
 **Oral Interrogations in Maths**  2013-2014   
 *Classes Préparatoires in Mathematics and Physics Lycée Janson de Sailly, Paris.*  
 
-## Tutorials
+## Tutorials  
 **Automatic Differentiation**  2019  
 *Statistical Machine Learning for Data Scientists, University of Washington, Seattle.*     
 Lecture on automatic differentiation with code examples covering: how to compute gradients of
