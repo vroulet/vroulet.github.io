@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 **Iterative Linearized Control: Stable Algorithms and Complexity Guarantees**  
-*ICML*, Long Beach, Jun. 2019.
+*ICML*, Long Beach, Jun. 2019. [slides]()
 
 **Sharpness, Restart, Acceleration**  
 *Optimization and Statistical Learning Workshop*, Les Houches, Feb. 2017.  

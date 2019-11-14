@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 
-Detailed [CV](/files/cv_vroulet.pdf).
+Detailed [CV](/files/vroulet_cv.pdf).
 
 
 ## Education

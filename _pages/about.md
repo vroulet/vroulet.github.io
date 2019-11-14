@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Vincent Roulet"
 author_profile: true
 redirect_from:
   - /about/
@@ -12,6 +12,6 @@ I am a postdoctoral fellow in the [Department of Statistics](https://www.stat.wa
 
 I've got my Ph.D. from [Ecole Normale Superieure Ulm](http://www.ens.fr) under the supervision of [Alexandre d'Aspremont](http://www.di.ens.fr/~aspremon/) within the [Sierra Team](http://www.di.ens.fr/sierra) led by [Francis Bach](http://www.di.ens.fr/~fbach/).
 
-During my thesis, I worked on mathematical optimization approaches for data science problems with an underlying combinatorial structure and on the acceleration of optimization algorithms by restarts. I am now interested in non-linear control from an optimization perspective.
+During my thesis, I worked on mathematical optimization approaches for data science problems with an underlying combinatorial structure and on the acceleration of optimization algorithms by restarts. I am now interested in optimization problems with a dynamical structure for data science.
 
 Contact me at [v] [my last name] [at] uw [dot] edu [dot].
