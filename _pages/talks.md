@@ -34,12 +34,12 @@ national Conference on Machine Learning (ICML), Long Beach, Jun. 2019.*
 
 **Integration Methods and Accelerated Optimization Algorithms**  
 *Institut de Recherche en
-Informatique de Toulouse (IRIT), Toulouse, Jun. 2017*
+Informatique de Toulouse (IRIT), Toulouse, Jun. 2017*  
 [slides](files/irit_integration.pdf)
 
 **Learning with Clustered Penalties**  
 *Institut de Recherche en
-Informatique de Toulouse (IRIT), Toulouse, Jun.  2017*
+Informatique de Toulouse (IRIT), Toulouse, Jun.  2017*  
 [slides](files/irit_clustered_learning.pdf)
 
 **Sharpness, Restart, Acceleration**  
