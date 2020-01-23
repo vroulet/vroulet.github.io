@@ -37,7 +37,7 @@ Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.
 **Sharpness, Restart and Acceleration.**  
 Vincent Roulet, Alexandre d'Aspremont.  
 *(Conference version) Advances in Neural Information Processing Systems 30 (NIPS 2017).*  
-*(Journal version) To appear in SIAM Journal of Optimization  (SIOPT)*  
+*(Journal version) SIAM Journal of Optimization  (SIOPT) (2019)*  
 [conference paper](https://papers.nips.cc/paper/6712-sharpness-restart-and-acceleration)
 [journal paper](/files/vroulet_restart.pdf)
 
@@ -46,12 +46,13 @@ Damien Scieur, Vincent Roulet, Francis Bach, Alexandre d'Aspremont.
 *Advances in Neural Information Processing Systems 30 (NIPS 2017).*  
 [paper](https://papers.nips.cc/paper/6711-integration-methods-and-optimization-algorithms)
 
-## Working papers
 **On the Convergence to Stationary Points of the Iterative Linear Exponential Quadratic Gaussian Algorithm.**  
 Vincent Roulet, Maryam Fazel, Siddhartha Srinivasa, Zaid Harchaoui.  
+*To appear in 2020 American Control Conference (ACC 2020).*  
 [paper](https://arxiv.org/abs/1910.08221)
 [code](https://github.com/vroulet/ilqc)
 
+## Working papers
 **Kernel-based Translations of Convolutional Networks.**  
 Corinne Jones, Vincent Roulet, Zaid Harchaoui.  
 [paper](https://arxiv.org/abs/1903.08131)
