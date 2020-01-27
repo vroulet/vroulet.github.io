@@ -37,7 +37,7 @@ Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.
 **Sharpness, Restart and Acceleration.**  
 Vincent Roulet, Alexandre d'Aspremont.  
 *(Conference version) Advances in Neural Information Processing Systems 30 (NIPS 2017).*  
-*(Journal version) SIAM Journal of Optimization  (SIOPT) (2019)*  
+*(Journal version) SIAM Journal of Optimization  (SIOPT) (2020)*  
 [conference paper](https://papers.nips.cc/paper/6712-sharpness-restart-and-acceleration)
 [journal paper](/files/vroulet_restart.pdf)
 
