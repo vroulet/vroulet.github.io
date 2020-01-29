@@ -9,6 +9,17 @@ redirect_from:
 {% include base_path %}
 
 ## Published
+**On the Convergence to Stationary Points of the Iterative Linear Exponential Quadratic Gaussian Algorithm.**  
+Vincent Roulet, Maryam Fazel, Siddhartha Srinivasa, Zaid Harchaoui.  
+*To appear in 2020 American Control Conference (ACC 2020).*  
+[paper](https://arxiv.org/abs/1910.08221)
+[code](https://github.com/vroulet/ilqc)
+
+**Sharpness, Restart and Acceleration.**  
+Vincent Roulet, Alexandre d'Aspremont.  
+*(Journal version) SIAM Journal of Optimization  (SIOPT) (2020)*  
+[paper](https://epubs.siam.org/doi/pdf/10.1137/18M1224568)
+
 **An Elementary Approach to Convergence Guarantees of Optimization Algorithms for Deep Networks.**  
 Vincent Roulet, Zaid Harchaoui.  
 *Proceedings of the 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton 2019).*  
@@ -37,20 +48,12 @@ Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.
 **Sharpness, Restart and Acceleration.**  
 Vincent Roulet, Alexandre d'Aspremont.  
 *(Conference version) Advances in Neural Information Processing Systems 30 (NIPS 2017).*  
-*(Journal version) SIAM Journal of Optimization  (SIOPT) (2020)*  
-[conference paper](https://papers.nips.cc/paper/6712-sharpness-restart-and-acceleration)
-[journal paper](/files/vroulet_restart.pdf)
+[paper](https://papers.nips.cc/paper/6712-sharpness-restart-and-acceleration)
 
 **Integration Methods and Accelerated Optimization Algorithms.**  
 Damien Scieur, Vincent Roulet, Francis Bach, Alexandre d'Aspremont.  
 *Advances in Neural Information Processing Systems 30 (NIPS 2017).*  
 [paper](https://papers.nips.cc/paper/6711-integration-methods-and-optimization-algorithms)
-
-**On the Convergence to Stationary Points of the Iterative Linear Exponential Quadratic Gaussian Algorithm.**  
-Vincent Roulet, Maryam Fazel, Siddhartha Srinivasa, Zaid Harchaoui.  
-*To appear in 2020 American Control Conference (ACC 2020).*  
-[paper](https://arxiv.org/abs/1910.08221)
-[code](https://github.com/vroulet/ilqc)
 
 ## Working papers
 **Kernel-based Translations of Convolutional Networks.**  
