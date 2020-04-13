@@ -12,7 +12,24 @@ redirect_from:
 **Probability II**,  *Spring 2020.*  
 *University of Washington, Seattle.*  
 Random variables; expectation and variance; laws of large numbers; normal approximation and
-other limit theorems; multidimensional distributions and transformations.  
+other limit theorems; multidimensional distributions and transformations.   
+
+### Lecture slides
+Lecture 5: Joint distribution discrete case,  marginals, multinomial distribution    
+[Slides](/files/lec5.pdf)       
+Lecture 6: Joint distribution continuous case,  marginals, uniform distribution   
+[Slides](/files/lec6.pdf)    
+Lecture 7: Joint distribution and independence, consequences in p.m.f., p.d.f    
+[Slides](/files/lec7.pdf)    
+
+
+### Lecture notes
+Lectures 1 to 4: [Review of MATH/STAT394: Introduction to Probability](/files/week1.pdf)    
+Lectures 5 to 7: [Joint Probability Distributions, Independence](/files/week2.pdf)   
+
+### Homeworks
+[Homework 1](/files/hw1.pdf)
+
 
 **Statistical Learning**,  *Winter 2020.*  
 *University of Washington, Seattle.*  

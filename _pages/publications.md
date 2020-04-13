@@ -23,7 +23,7 @@ Vincent Roulet, Alexandre d'Aspremont.
 **An Elementary Approach to Convergence Guarantees of Optimization Algorithms for Deep Networks.**  
 Vincent Roulet, Zaid Harchaoui.  
 *Proceedings of the 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton 2019).*  
-[paper](/files/vroulet_elem_deep.pdf)
+[paper](https://proceedings.allerton.csl.illinois.edu/media/files/0087.pdf)
 
 **Iterative Linearized Control: Stable Algorithms and Complexity Guarantees.**  
 Vincent Roulet, Siddharta Srinivasa, Dmitry Drusvyatskiy, Zaid Harchaoui.  
