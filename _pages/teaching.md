@@ -11,7 +11,7 @@ redirect_from:
 ## Lecturer  
 **Probability II**,  *Spring 2020.*  
 *University of Washington, Seattle.*  
-This is the second quarter of a sequence in probability theory. This quarter, we study jointly distributed probability distributions, independent random variables, conditional distributions. We  also cover diverse representations of probability distributions beyond density and cumulative distributions, namely, we introduce moment generating functions. We then study the convergence of random variables and in particular the central limit theorem.
+This is the second quarter of a sequence in probability theory. This quarter, we study jointly distributed probability distributions, independent random variables, conditional distributions. We  also cover diverse representations of probability distributions beyond density and cumulative distributions, namely, we introduce moment generating functions. We then study the convergence of random variables and in particular the central limit theorem.  
 [Lecture slides](/files/mathstat395_lec1-19.pdf)   
 [Lecture notes](/files/mathstat395_lecture_notes_1-6.pdf)   
 [Homeworks](/files/mathstat395_homeworks1-4.pdf)    
