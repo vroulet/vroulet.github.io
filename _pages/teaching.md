@@ -36,7 +36,7 @@ Taught by [Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon)
 Lecture on automatic differentiation with code examples covering: how to compute gradients of
 a chain of computations, how to use automatic-differentiation software, how to use automatic-
 differentiation beyond gradient computations.  
-[slides](/files/auto_diff_tuto.pdf) 
+[slides](/files/auto_diff_tuto.pdf)
 [notebook](/files/auto_diff_tuto.ipynb)
 
 **Optimization for deep learning**,  *Jul. 2018.*  
@@ -44,5 +44,5 @@ differentiation beyond gradient computations.
 Interactive Jupyter Notebook for 30 attendees to understand the basics of optimization for
 deep learning: automatic-differentiation, convergence guarantees of SGD, illustration of the
 batch-normalization effect.   
-[notes](/files/lab1_optimization_notes.pdf)
-[notebook](/files/lab1_optimization_deep_learning.ipynb)
+<!-- [notes](/files/lab1_optimization_notes.pdf)
+[notebook](/files/lab1_optimization_deep_learning.ipynb) -->
