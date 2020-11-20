@@ -7,14 +7,26 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+**Automatic Differentiation Friendly Complexity Guarantees.**  
+*Workshop Beyond first order methods in Machine Learning Systems at the International Conference on Machine Learning 2020.*  
+Vienna, Jul. 2020.  
+
+**On the Convergence to Stationary Points of the Iterative Linear Exponential Quadratic Gaussian Algorithm.**
+*2020 American Control Conference*  
+Denver, Jul. 2020.
+
+**Optimization Oracles for Chains of Computations.**  
+*Optimization for Machine Learning, Centre International de Rencontres Mathématiques.*
+Luminy, Mar. 2020.
+
 **Iterative Linearized Control from an Optimization Viewpoint.**    
 *Annual meeting of the Institute for Operations Research and the Management Sciences Annual Meeting (INFORMS).*  
 Seattle, Oct. 2019.  
 [slides](/files/informs.pdf)
 
 **Risk-Sensitive Control via Iterative Linearizations.**  
-*2nd Biennial Meeting of the SIAM
-Pacific Northwest Section.*  
+*2nd Biennial Meeting of the SIAM Pacific Northwest Section.*  
 Seattle, Oct. 2019.  
 [slides](/files/siam_pnw.pdf)
 
