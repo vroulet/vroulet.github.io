@@ -26,6 +26,10 @@ redirect_from:
 * Outstanding reviewer for the Neural Information processing Systems Conference, granted to 10% of the reviewers  
 * PhD grant AMX from Ecole Polytechnique
 
-## Details  
-Apart from research, I'm fond of music, I play bass and I animated the music association of my university.  
+## Detailed CV  
 More details can be found in my [CV](/files/vroulet_cv.pdf).  
+
+
+### Outside Research  
+Apart from research, I'm fond of music, I play bass and I animated the music association of my university.  
+I have also developed with a team of 4 friends a a high quality multi-usage pocket size speaker, won the Start-up prize **Be the Future of Sound** organized by Satt Lutech

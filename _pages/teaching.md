@@ -32,14 +32,13 @@ Reviews optimization and convex optimization in its relation to statistics. Cove
 ## Teaching Assistant  
 **Convex Optimization**,  *2014-2017.*   
 *Master Mathematics, Vision, Learning, École Normale Supérieure Paris-Saclay, Paris.*  
-Taught by [Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon)   
-[website](https://www.di.ens.fr/~aspremon/OptConvexeM2.html)  
+Taught by [Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon), see [website](https://www.di.ens.fr/~aspremon/OptConvexeM2.html)  
 
-**Oral Interrogations in Maths**,  *2013-2014*   
+**Oral Interrogations in Maths**,  *2013-2014.*   
 *Classes Préparatoires in Mathematics and Physics Lycée Janson de Sailly, Paris.*  
 
 ## Tutorials  
-**Automatic Differentiation**,  *May 2019, 2020*  
+**Automatic Differentiation**,  *May 2019, 2020.*  
 *Statistical Machine Learning for Data Scientists, University of Washington, Seattle.*     
 Lecture on automatic differentiation with code examples covering: how to compute gradients of
 a chain of computations, how to use automatic-differentiation software, how to use automatic-

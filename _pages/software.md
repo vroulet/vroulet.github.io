@@ -11,7 +11,7 @@ redirect_from:
 [**ilqc**](https://github.com/vroulet/ilqc)  
 A toolbox for analyzing non-linear control algorithms from an optimization perspective.
 * Compare convergence of algos for exact/risk-sensitive formulations
-* Oracles implemented \`a la Pytorch,
+* Oracles implemented à la Pytorch,
 * Comparisons on synthetic/realistic problems
 
 [**casimir**](https://github.com/krishnap25/casimir)  
