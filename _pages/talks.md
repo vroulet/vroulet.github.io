@@ -17,7 +17,7 @@ Vienna, Jul. 2020.
 Denver, Jul. 2020.
 
 **Optimization Oracles for Chains of Computations.**  
-*Optimization for Machine Learning, Centre International de Rencontres Mathématiques.*
+*Optimization for Machine Learning, Centre International de Rencontres Mathématiques.*  
 Luminy, Mar. 2020.
 
 **Iterative Linearized Control from an Optimization Viewpoint.**    
