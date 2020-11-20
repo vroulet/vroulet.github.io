@@ -11,9 +11,17 @@ redirect_from:
 ## Published
 **On the Convergence to Stationary Points of the Iterative Linear Exponential Quadratic Gaussian Algorithm.**  
 Vincent Roulet, Maryam Fazel, Siddhartha Srinivasa, Zaid Harchaoui.  
-*To appear in 2020 American Control Conference (ACC 2020).*  
+*In Proceedings of the 2020 American Control Conference (ACC 2020).*  
 [paper](https://arxiv.org/abs/1910.08221)
 [code](https://github.com/vroulet/ilqc)
+
+**End-to-End Learning, with or without Labels.**  
+Corinne Jones, Vincent Roulet, Zaid Harchaoui.  
+*Short version in Proceedings of Joint Statistical Meetings, 2020*  
+*Winner of the 2020 ASA Computing/Graphics Student Paper*  
+[paper](https://arxiv.org/pdf/1912.12979.pdf)
+[code](https://github.com/cjones6/xsdc)
+[poster](https://sites.stat.washington.edu/people/cjones6/research/xsdc_poster.pdf)
 
 **Sharpness, Restart and Acceleration.**  
 Vincent Roulet, Alexandre d'Aspremont.  

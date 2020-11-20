@@ -9,17 +9,25 @@ redirect_from:
 {% include base_path %}
 
 ## Lecturer  
-**Probability II**,  *Spring 2020.*  
+**Stochastic Modeling of Scientific Data II**, *STAT517, Winter 2021.*  
+*University of Washington, Seattle.*   
+Axiomatic definitions of probability; random variables; conditional probability and Bayes' theorem; expectations and variance; classical distributions. Transformations of a single random variable. Markov and Chebyshev's inequality. Weak law of large numbers for finite variance.
+
+**Stochastic Modeling of Scientific Data**, *STAT516, Fall 2020.*  
 *University of Washington, Seattle.*  
-This is the second quarter of a sequence in probability theory. This quarter, we study jointly distributed probability distributions, independent random variables, conditional distributions. We  also cover diverse representations of probability distributions beyond density and cumulative distributions, namely, we introduce moment generating functions. We then study the convergence of random variables and in particular the central limit theorem.  
-[Lecture slides](/files/mathstat395_lec1-19.pdf)   
-[Lecture notes](/files/mathstat395_lecture_notes_1-6.pdf)   
-[Homeworks](/files/mathstat395_homeworks1-4.pdf)    
+Covers discrete-time Markov chain theory; inference for discrete-time Markov chains; Monte Carlo methods; missing data; hidden Markov models; and Gaussian Markov random fields.
 
+**Probability II**,  *STAT395 Spring 2020, 2021.*  
+*University of Washington, Seattle.*  
+Random variables; expectation and variance; laws of large numbers; normal approximation and other limit theorems; multidimensional distributions and transformations.
 
-**Statistical Learning: Modeling, Prediction, And Computing**,  *Winter 2020.*  
+**Probability I**, *STAT394, Winter 2021.*  
+*University of Washington, Seattle.*  
+Random variables; expectation and variance; laws of large numbers; normal approximation and other limit theorems; multidimensional distributions and transformations.
+
+**Statistical Learning: Modeling, Prediction, And Computing**,  *STAT538 Winter 2020.*  
 *University of Washington, Seattle. Co-taught with Zaid Harchaoui*  
-The course presents advanced statistical machine learning methods from a functional estimation (nonparametric statistics) viewpoint. The course covers the theoretical analysis of kernel-based methods, as well as their practical implementation using gradient-based optimization algorithms and numerical linear algebra algorithms. The course also covers an introduction to recent theoretical analyses of deep networks.
+Reviews optimization and convex optimization in its relation to statistics. Covers the basics of unconstrained and constrained convex optimization, basics of clustering and classification, entropy, KL divergence and exponential family models, duality, modern learning algorithms like boosting, support vector machines, and variational approximations in inference.
 
 ## Teaching Assistant  
 **Convex Optimization**,  *2014-2017.*   
@@ -41,7 +49,7 @@ differentiation beyond gradient computations.
 
 **Optimization for deep learning**,  *Jul. 2018.*  
 *Summer School on Fundamentals of Data Analysis,University of Wisconsin-Madison, Madison.*    
-Interactive Jupyter Notebook for 30 attendees to understand the basics of optimization for
+Interactive Jupyter Notebook to understand the basics of optimization for
 deep learning: automatic-differentiation, convergence guarantees of SGD, illustration of the
 batch-normalization effect.   
 <!-- [notes](/files/lab1_optimization_notes.pdf)
