@@ -39,7 +39,7 @@ Taught by [Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon)
 *Classes Préparatoires in Mathematics and Physics Lycée Janson de Sailly, Paris.*  
 
 ## Tutorials  
-**Automatic Differentiation**,
+**Automatic Differentiation**,  *May 2019, 2020*  
 *Statistical Machine Learning for Data Scientists, University of Washington, Seattle.*     
 Lecture on automatic differentiation with code examples covering: how to compute gradients of
 a chain of computations, how to use automatic-differentiation software, how to use automatic-
