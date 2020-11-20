@@ -12,8 +12,8 @@ redirect_from:
 *Workshop Beyond first order methods in Machine Learning Systems at the International Conference on Machine Learning 2020.*  
 Vienna, Jul. 2020.  
 
-**On the Convergence to Stationary Points of the Iterative Linear Exponential Quadratic Gaussian Algorithm.**
-*2020 American Control Conference*  
+**On the Convergence to Stationary Points of the Iterative Linear Exponential Quadratic Gaussian Algorithm.**  
+*2020 American Control Conference.*  
 Denver, Jul. 2020.
 
 **Optimization Oracles for Chains of Computations.**  
