@@ -17,15 +17,15 @@ Vincent Roulet, Maryam Fazel, Siddhartha Srinivasa, Zaid Harchaoui.
 
 **End-to-End Learning, with or without Labels.**  
 Corinne Jones, Vincent Roulet, Zaid Harchaoui.  
-*Short version in Proceedings of Joint Statistical Meetings, 2020*  
-*Winner of the 2020 ASA Computing/Graphics Student Paper*  
+*Short version in Proceedings of Joint Statistical Meeting (JSM 2020).*  
+*Winner of the 2020 ASA Computing/Graphics Student Paper Award.*  
 [paper](https://arxiv.org/pdf/1912.12979.pdf)
 [code](https://github.com/cjones6/xsdc)
 [poster](https://sites.stat.washington.edu/people/cjones6/research/xsdc_poster.pdf)
 
 **Sharpness, Restart and Acceleration.**  
 Vincent Roulet, Alexandre d'Aspremont.  
-*(Journal version) SIAM Journal of Optimization  (SIOPT) (2020)*  
+*(Journal version) SIAM Journal of Optimization, 2020.*  
 [paper](https://epubs.siam.org/doi/pdf/10.1137/18M1224568)
 
 **An Elementary Approach to Convergence Guarantees of Optimization Algorithms for Deep Networks.**  
@@ -42,7 +42,7 @@ Vincent Roulet, Siddharta Srinivasa, Dmitry Drusvyatskiy, Zaid Harchaoui.
 
 **Complexity versus Statistical Performance on Sparse Recovery Problems.**  
 Vincent Roulet, Nicolas Boumal, Alexandre d'Aspremont.  
-*Information and Inference: a Journal of the IMA, (2019).*  
+*Information and Inference: a Journal of the IMA, 2019.*  
 [paper](https://academic.oup.com/imaiai/advance-article/doi/10.1093/imaiai/iay020/5288445)
 
 **A Smoother Way to Train Structured Prediction Models.**  
@@ -55,12 +55,12 @@ Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.
 
 **Sharpness, Restart and Acceleration.**  
 Vincent Roulet, Alexandre d'Aspremont.  
-*(Conference version) Advances in Neural Information Processing Systems 30 (NIPS 2017).*  
+*(Conference version) Advances in Neural Information Processing Systems 30 (NeurIPS 2017).*  
 [paper](https://papers.nips.cc/paper/6712-sharpness-restart-and-acceleration)
 
 **Integration Methods and Accelerated Optimization Algorithms.**  
 Damien Scieur, Vincent Roulet, Francis Bach, Alexandre d'Aspremont.  
-*Advances in Neural Information Processing Systems 30 (NIPS 2017).*  
+*Advances in Neural Information Processing Systems 30 (NeurIPS 2017).*  
 [paper](https://papers.nips.cc/paper/6711-integration-methods-and-optimization-algorithms)
 
 ## Working papers

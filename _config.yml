@@ -83,12 +83,12 @@ author:
   name             : "Vincent Roulet"
   avatar           : "website_picture.JPG"
   bio              : "Optimization and Machine Learning Researcher"
-  location         : 
-  employer         : "University of Washington, Seattle"
-  pubmed           : 
+  location         :
+  employer         : "University of Washington"
+  pubmed           :
   googlescholar    : "https://scholar.google.fr/citations?user=vwoZrVMAAAAJ&hl=fr"
-  email            : 
-  researchgate     : 
+  email            :
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "vroulet"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
