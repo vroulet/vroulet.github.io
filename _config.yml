@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vincent Roulet"
-  avatar           : "vroulet_glycine.JPG"
+  avatar           : "vroulet_glycine.jpg"
   bio              : "Optimization and Machine Learning Researcher"
   location         :
   employer         : "University of Washington"
