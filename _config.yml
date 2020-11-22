@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vincent Roulet"
+  name             : "Vincent Roulet"  
   avatar           : "vroulet_glycine_crop.jpg"
   bio              : "Optimization and Machine Learning Researcher"
   location         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : " vroulet"
   google_plus      :
   keybase          :
   instagram        :
