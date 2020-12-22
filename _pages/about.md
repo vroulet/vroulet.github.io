@@ -10,7 +10,7 @@ redirect_from:
 
 I am an acting instructor in the [Department of Statistics](https://stat.uw.edu/) at the [University of Washington](https://www.washington.edu/).
 
-Previously, I was a postdoctoral fellow in the NSF-TRIPOS institute [ADSI](http://ads-institute.uw.edu/) (now [IFDS]( <https://ifds.info/>)) at the [University of Washington](https://www.washington.edu/).
+Previously, I was a postdoctoral fellow in the NSF-TRIPODS institute [ADSI](http://ads-institute.uw.edu/) (now [IFDS](https://ifds.info/)) at the [University of Washington](https://www.washington.edu/).
 
 I received my Ph.D. from [Ecole Normale Superieure de Paris](http://www.ens.fr) under the supervision of [Alexandre d'Aspremont](http://www.di.ens.fr/~aspremon/) within the [Sierra Team](http://www.di.ens.fr/sierra) led by [Francis Bach](http://www.di.ens.fr/~fbach/).
 
