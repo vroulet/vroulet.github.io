@@ -20,7 +20,6 @@ redirect_from:
 * Major
     * (French) *Master Mathématiques, Vision et Apprentissage*  
     * (English equivalent) *MSc Mathematics, Vision, Learning*
-*  
 
 ## Awards  
 * University of Washington Data Science Postdoctoral Fellowship  
