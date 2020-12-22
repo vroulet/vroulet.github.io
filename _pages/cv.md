@@ -19,7 +19,7 @@ redirect_from:
     * (English equivalent) *MSc in Maths, Physics, Computer Science*  
 * Major
     * (French) *Master Mathématiques, Vision et Apprentissage*  
-    * (English equivalent) *MSc Mathematics, Vision, Learning
+    * (English equivalent) *MSc Mathematics, Vision, Learning*
 *  
 
 ## Awards  
