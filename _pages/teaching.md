@@ -9,19 +9,11 @@ redirect_from:
 {% include base_path %}
 
 ## Lecturer  
-**Stochastic Modeling of Scientific Data II**, *STAT517, Winter 2021.*  
-*University of Washington.*   
-Axiomatic definitions of probability; random variables; conditional probability and Bayes' theorem; expectations and variance; classical distributions. Transformations of a single random variable. Markov and Chebyshev's inequality. Weak law of large numbers for finite variance.
-
 **Stochastic Modeling of Scientific Data**, *STAT516, Fall 2020.*  
 *University of Washington.*  
 Covers discrete-time Markov chain theory; inference for discrete-time Markov chains; Monte Carlo methods; missing data; hidden Markov models; and Gaussian Markov random fields.
 
-**Probability II**,  *STAT395 Spring 2020, 2021.*  
-*University of Washington.*  
-Random variables; expectation and variance; laws of large numbers; normal approximation and other limit theorems; multidimensional distributions and transformations.
-
-**Probability I**, *STAT394, Winter 2021.*  
+**Probability II**,  *STAT395 Spring 2020.*  
 *University of Washington.*  
 Random variables; expectation and variance; laws of large numbers; normal approximation and other limit theorems; multidimensional distributions and transformations.
 
@@ -34,7 +26,7 @@ Reviews optimization and convex optimization in its relation to statistics. Cove
 *Master Mathematics, Vision, Learning, École Normale Supérieure Paris-Saclay, Paris.*  
 Taught by [Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon), see [website](https://www.di.ens.fr/~aspremon/OptConvexeM2.html).  
 
-**Oral Interrogations in Maths**,  *2013-2014.*   
+**Oral Interrogations in Mathematics**,  *2013-2014.*   
 *Classes Préparatoires in Mathematics and Physics Lycée Janson de Sailly, Paris.*  
 
 ## Tutorials  
@@ -46,8 +38,8 @@ differentiation beyond gradient computations.
 [slides](/files/auto_diff_tuto.pdf)
 [notebook](/files/auto_diff_tuto.ipynb)
 
-**Optimization for deep learning**,  *Jul. 2018.*  
-*Summer School on Fundamentals of Data Analysis,University of Wisconsin-Madison, Madison.*    
+**Optimization for deep learning**,  *July 2018.*  
+*Summer School on Fundamentals of Data Analysis, University of Wisconsin.*    
 Interactive Jupyter Notebook to understand the basics of optimization for
 deep learning: automatic-differentiation, convergence guarantees of SGD, illustration of the
 batch-normalization effect.   

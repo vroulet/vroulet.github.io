@@ -35,13 +35,11 @@ Seattle, Oct. 2019.
 
 **Restarts of Accelerated Gradient Methods: Generic Theoretical Speed-up.**  
 *West Coast Optimization Meeting.*  
-Vancouver, Sep. 2019  
+Vancouver, Sep. 2019.  
 [slides](/files/wcom.pdf)
 
-**An Elementary Approach to Convergence Guarantees of Optimization Algorithms for
-Deep Networks.**  
-*57th Annual Allerton Conference on Communication, Control, and
-Computing (Allerton).*  
+**An Elementary Approach to Convergence Guarantees of Optimization Algorithms for Deep Networks.**  
+*57th Annual Allerton Conference on Communication, Control, and Computing (Allerton).*  
 Urbana-Champaign, Sep. 2019.   
 [slides](/files/allerton.pdf)
 
