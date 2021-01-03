@@ -19,7 +19,8 @@ Denver, Jul. 2020.
 [slides](/files/ACC_2020.pdf)
 
 **Computational Complexity versus Statistical Performance on Sparse Recovery Problems.**  
-*Seminar of the Department of Statistics.* Seattle, Jun. 2020.  
+*Seminar of the Department of Statistics.*  
+Seattle, Jun. 2020.  
 [slides](/files/renegar.pdf)
 
 **Optimization Oracles for Chains of Computations.**  
