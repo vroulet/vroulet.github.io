@@ -13,6 +13,10 @@ redirect_from:
 Vienna, Jul. 2020.  
 [slides](/files/workshop_icml_2020.pdf)
 
+**Computational Complexity versus Statistical Performance on Sparse Recovery Problems.**  
+*Seminar of the Department of Statistics*, Seattle, Jun. 2020.  
+[slides](files/renegar.pdf)
+
 **On the Convergence to Stationary Points of the Iterative Linear Exponential Quadratic Gaussian Algorithm.**  
 *2020 American Control Conference.*  
 Denver, Jul. 2020.  
