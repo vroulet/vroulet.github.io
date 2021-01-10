@@ -18,6 +18,8 @@ During my thesis, I demonstrated both theoretically and empirically how accelera
 
 Contact me at [v] [my last name] [at] uw [dot] edu.
 
+*I am on the job market. Feel free to contact me.*
+
 <!-- Solve Github indentation -->
 
 <!-- [Zaid Harchaoui](http://faculty.washington.edu/zaid), [Dmitriy Drusvyatskiy](http://sites.math.washington.edu/~ddrusv/), [Maryam Fazel](https://faculty.washington.edu/mfazel/), [Sham Kakade](https://homes.cs.washington.edu/~sham/),  [Yin Tat Lee](http://yintat.com/). -->
