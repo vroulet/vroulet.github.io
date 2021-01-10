@@ -16,7 +16,7 @@ I received my Ph.D. from [Ecole Normale Superieure de Paris](http://www.ens.fr) 
 
 During my thesis, I demonstrated both theoretically and empirically how accelerated algorithms for convex optimization can be sped-up by restarts. During my postdoc, I developed regularized variants of non-linear off-line control algorithms with theoretical guarantees of convergence.
 
-Contact me at [v] [my last name] [at] uw [dot] edu.
+Contact me at [v] [my last name] [at] uw [dot] edu.  
 
 *I am on the job market. Feel free to contact me.*
 
