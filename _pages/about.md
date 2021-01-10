@@ -18,7 +18,7 @@ During my thesis, I demonstrated both theoretically and empirically how accelera
 
 Contact me at [v] [my last name] [at] uw [dot] edu.  
 
-**I am on the job market. Feel free to contact me.**
+**I am on the job market.**
 
 <!-- Solve Github indentation -->
 
