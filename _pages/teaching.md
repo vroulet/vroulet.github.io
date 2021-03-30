@@ -9,13 +9,15 @@ redirect_from:
 {% include base_path %}
 
 ## Lecturer  
-**Stochastic Modeling of Scientific Data**, *STAT516, Fall 2020.*  
+**Stochastic Modeling of Scientific Data I, II**, *STAT516, Fall 2020, STAT517 Winter 2021.*  
 *University of Washington.*  
-Covers discrete-time Markov chain theory; inference for discrete-time Markov chains; Monte Carlo methods; missing data; hidden Markov models; and Gaussian Markov random fields.
+Stochastic Modeling of Scientific Data I (STAT516): discrete-time Markov chain theory; inference for discrete-time Markov chains; Monte Carlo methods; missing data; hidden Markov models.  
+Stochastic Modeling of Scientific Data II (STAT517): Gaussian processes; spatial linear prediction; variograms; Gaussian Markov random fields; Poisson processes; applied stochastic differential equations.    
 
-**Probability II**,  *STAT395 Spring 2020.*  
+**Probability I, II**,  *STAT394 Winter 2021, STAT395 Spring 2020, 2021.*  
 *University of Washington.*  
-Random variables; expectation and variance; laws of large numbers; normal approximation and other limit theorems; multidimensional distributions and transformations.
+Probability I (STAT394): probability definitions and calculus; conditional probability; independence; random variables; expectation and variance; laws of large numbers; normal approximation of the binomial.  
+Probability II (STAT395): joint distributions; moment generating function; central limit theorem; conditional distributions.  
 
 **Statistical Learning: Modeling, Prediction, And Computing**,  *STAT538 Winter 2020.*  
 *University of Washington. Co-taught with Zaid Harchaoui.*  
