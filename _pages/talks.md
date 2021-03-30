@@ -8,6 +8,16 @@ redirect_from:
 
 {% include base_path %}
 
+**On the Smoothing of Deep Networks**  
+*55th Annual Conference on Information Sciences and Systems (CISS)"  
+Online, March 2021  
+[slides](/files/vroulet_ciss_slides.pdf)  
+
+**From Statistical Bounds to Optimization Complexity in Sparse Recovery Problems. Non-Linear Dynamical Problems from a Optimization Viewpoint**  
+*Seminar of the Department of Statistics*  
+Seattle, February 2021  
+[slides](/files/vroulet_aap_uw.pdf)  
+
 **Automatic Differentiation Friendly Complexity Guarantees.**  
 *Workshop Beyond first order methods in Machine Learning Systems at the International Conference on Machine Learning 2020.*  
 Vienna, Jul. 2020.  

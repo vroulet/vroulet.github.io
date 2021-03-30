@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an acting instructor in the [Department of Statistics](https://stat.uw.edu/) at the [University of Washington](https://www.washington.edu/).
+Starting in September 2021, I will be an acting assistant professor in the [Department of Statistics](https://stat.uw.edu/) at the [University of Washington](https://www.washington.edu/). I am currently an acting instructor in the [Department of Statistics](https://stat.uw.edu/) at the [University of Washington](https://www.washington.edu/).
 
 Previously, I was a postdoctoral fellow in the NSF-TRIPODS institute [ADSI](http://ads-institute.uw.edu/) (now [IFDS](https://ifds.info/)) at the [University of Washington](https://www.washington.edu/).
 
@@ -18,7 +18,6 @@ During my thesis, I demonstrated both theoretically and empirically how accelera
 
 Contact me at [v] [my last name] [at] uw [dot] edu.  
 
-**I am on the job market.**
 
 <!-- Solve Github indentation -->
 

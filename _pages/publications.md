@@ -9,6 +9,11 @@ redirect_from:
 {% include base_path %}
 
 ## Published
+**On the Smoothing of Deep Networks**  
+Vincent Roulet, Zaid Harchaoui.  
+*In Proceedings of the 55th Annual Conference on Information Sciences and Systems (CISS)*  
+[paper](/files/smoothing_net.pdf)  
+
 **On the Convergence to Stationary Points of the Iterative Linear Exponential Quadratic Gaussian Algorithm.**  
 Vincent Roulet, Maryam Fazel, Siddhartha Srinivasa, Zaid Harchaoui.  
 *In Proceedings of the 2020 American Control Conference (ACC 2020).*  
