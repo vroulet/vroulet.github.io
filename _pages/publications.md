@@ -9,6 +9,12 @@ redirect_from:
 {% include base_path %}
 
 ## Published
+**Discriminative clustering with representation learning with any ratio of labeled to unlabeled data.**  
+Corinne Jones, Vincent Roulet, Zaid Harchaoui.  
+*Statistics and Computing, 2022*  
+[paper](https://link.springer.com/article/10.1007/s11222-021-10067-x)
+[code](https://github.com/cjones6/xsdc)
+
 **On the Smoothing of Deep Networks.**  
 Vincent Roulet, Zaid Harchaoui.  
 *In Proceedings of the 55th Annual Conference on Information Sciences and Systems (CISS).*  
@@ -68,15 +74,14 @@ Damien Scieur, Vincent Roulet, Francis Bach, Alexandre d'Aspremont.
 *Advances in Neural Information Processing Systems 30 (NeurIPS 2017).*  
 [paper](https://papers.nips.cc/paper/6711-integration-methods-and-optimization-algorithms)
 
+
+
+<!--
 ## Working papers
 **Kernel-based Translations of Convolutional Networks.**  
 Corinne Jones, Vincent Roulet, Zaid Harchaoui.  
 [paper](https://arxiv.org/abs/1903.08131)
 [code](https://github.com/cjones6/yesweckn)
-
-<!-- **Learning Feature Representations for Discriminative Clustering with Limited Supervision**  
-Corinne Jones, Vincent Roulet, Zaid Harchaoui.  
-[paper](https://www.stat.washington.edu/sites/default/files/2019-06/tr651.pdf)
 
 **Iterative Hard Clustering of Features.**  
 Vincent Roulet, Fajwel Fogel, Alexandre d'Aspremont, Francis Bach.  

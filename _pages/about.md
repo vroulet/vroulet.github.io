@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Starting in September 2021, I will be an acting assistant professor in the [Department of Statistics](https://stat.uw.edu/) at the [University of Washington](https://www.washington.edu/). I am currently an acting instructor in the [Department of Statistics](https://stat.uw.edu/) at the [University of Washington](https://www.washington.edu/).
-
+I am an acting assistant professor in the [Department of Statistics](https://stat.uw.edu/) at the [University of Washington](https://www.washington.edu/).
 Previously, I was a postdoctoral fellow in the NSF-TRIPODS institute [ADSI](http://ads-institute.uw.edu/) (now [IFDS](https://ifds.info/)) at the [University of Washington](https://www.washington.edu/).
-
 I received my Ph.D. from [Ecole Normale Superieure de Paris](http://www.ens.fr) under the supervision of [Alexandre d'Aspremont](http://www.di.ens.fr/~aspremon/) within the [Sierra Team](http://www.di.ens.fr/sierra) led by [Francis Bach](http://www.di.ens.fr/~fbach/).
 
-During my thesis, I demonstrated both theoretically and empirically how accelerated algorithms for convex optimization can be sped-up by restarts. During my postdoc, I developed regularized variants of non-linear off-line control algorithms with theoretical guarantees of convergence.
+I am currently interested in discrete-time nonlinear control from an optimization viewpoint. 
 
 Contact me at [v] [my last name] [at] uw [dot] edu.  
 
