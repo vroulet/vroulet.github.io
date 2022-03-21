@@ -25,7 +25,7 @@ redirect_from:
 * University of Washington Data Science Postdoctoral Fellowship  
 * Outstanding reviewer for the Neural Information Processing Systems Conference, granted to 10% of the reviewers  
 * Doctoral Fellowship AMX from Ecole Polytechnique
- 
+
 
 ## Detailed CV  
 More details can be found in my [CV](/files/vroulet_cv.pdf).  
