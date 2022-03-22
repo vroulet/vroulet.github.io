@@ -30,7 +30,7 @@ Seattle, WA, USA, Feb. 2021. (Online)
 [slides](/files/vroulet_aap_uw.pdf)  
 
 **Automatic Differentiation Friendly Complexity Guarantees.**  
-*Workshop Beyond First Order Methods in Machine Learning Systems at the International Conference on Machine Learning 2020.*  
+*Workshop Beyond First Order Methods in Machine Learning Systems at ICML.*  
 Vienna, Austria, Jul. 2020. (Online)  
 [slides](/files/workshop_icml_2020.pdf)  
 
@@ -66,13 +66,23 @@ Vancouver, Canada, Sep. 2019.
 
 **An Elementary Approach to Convergence Guarantees of Optimization Algorithms for Deep Networks.**  
 *57th Annual Allerton Conference on Communication, Control, and Computing (Allerton).*  
-Urbana-Champaign, IL, USA Sep. 2019.   
+Urbana-Champaign, IL, USA, Sep. 2019.   
 [slides](/files/allerton.pdf)
 
 **Iterative Linearized Control: Stable Algorithms and Complexity Guarantees.**  
 *36th International Conference on Machine Learning (ICML).*  
 Long Beach, CA, USA, Jun. 2019.  
 [slides](/files/icml.pdf)
+
+**A Smoother Way to Train Structured Prediction Models.**   
+*Conference on Neural Information Processing Systems (NeurIPS).**  
+Montreal, Canada, Dec. 2018.  
+[slides](https://krishnap25.github.io/papers/2018_neurips_smoother_poster.pdf)
+
+**On the Geometry of Optimization Problems and their Structure.**  
+*PhD presentation at the Institut National de Recherche en Informatique et en Automatique (INRIA) Paris.*  
+Paris, France, Dec. 2017.  
+[slides](/files/PhD_defense_VRoulet.pdf)
 
 **Integration Methods and Accelerated Optimization Algorithms.**
 *Conference on Neural Information Processing Systems (NeurIPS).*  
@@ -101,5 +111,5 @@ Les Houches, France, Feb. 2017.
 
 **Supervised Clustering in the Data Cube.**  
 *Transfer and Multi-Task Learning Workshop, NIPS 2015.*  
-Montreal, Dec. 2015.  
+Montreal, Canada, Dec. 2015.  
 [slides](/files/data_cube.pdf)  
