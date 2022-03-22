@@ -11,17 +11,17 @@ redirect_from:
 ## Published
 **A Representation-Focused Training Algorithm for Deep Networks.**  
 Vincent Roulet, Corinne Jones, Zaid Harchaoui.  
-*(To appear) In Proceedings of the IEEE Data Science and Learning Workshop (IEEEDSLW), 2022.*  
+*(to appear) in Proceedings of the IEEE Data Science and Learning Workshop (IEEEDSLW), 2022.*  
 [paper](/files/ulr.pdf)
 
 **Differentiable Programming à la Moreau.**  
 Vincent Roulet, Zaid Harchaoui.  
-*(To appear) In Proceedings of the International Conference on Statistics and Signal Processing (ICASSP), 2022.*  
+*(to appear) in Proceedings of the International Conference on Statistics and Signal Processing (ICASSP), 2022.*  
 [paper](https://arxiv.org/abs/2012.15458)
 
-**Discriminative Clustering with Representation Learning with any Ratio of Labeled to Unlabeled data.**  
+**Discriminative Clustering with Representation Learning with any Ratio of Labeled to Unlabeled Data.**  
 Corinne Jones, Vincent Roulet, Zaid Harchaoui.  
-*Statistics and Computing, 2022*  
+*Statistics and Computing, 2022.*  
 [paper](https://link.springer.com/article/10.1007/s11222-021-10067-x)
 [code](https://github.com/cjones6/xsdc)
 
@@ -85,7 +85,7 @@ Damien Scieur, Vincent Roulet, Francis Bach, Alexandre d'Aspremont.
 [paper](https://papers.nips.cc/paper/6711-integration-methods-and-optimization-algorithms)
 
 
-## Under review
+## Working papers
 **Kernel-based Translations of Convolutional Networks.**  
 Corinne Jones, Vincent Roulet, Zaid Harchaoui.  
 [paper](https://arxiv.org/abs/1903.08131)
