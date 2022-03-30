@@ -100,8 +100,9 @@ Vincent Roulet, Zaid Harchaoui.
 
 **Complexity Bounds of Iterative Linear Quadratic Optimization Algorithms for Discrete Time Nonlinear Control.**  
 Vincent Roulet, Siddharta Srinivasa, Maryam Fazel, Zaid Harchaoui.  
-
-
+[paper (theory)](https://github.com/vroulet/ilqc/blob/master/papers/ilqc_theory.pdf)
+[paper (implementations)](https://github.com/vroulet/ilqc/blob/master/papers/ilqc_algos.pdf)
+[code](https://github.com/vroulet/ilqc)
 
 
 

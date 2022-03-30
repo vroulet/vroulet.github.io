@@ -14,7 +14,10 @@ Toolbox for analyzing non-linear control algorithms from an optimization perspec
 -- Oracles implemented à la Pytorch, various line-searches tested for all algorithms.  
 -- Diverse environments available with animations: pendulum, pendulum on a cart, simple model of a car, bicycle model of a cart.  
 -- Model Predictive Controller implemented for a contouring objective of a track racing task on a complex track.  
-[paper](http://proceedings.mlr.press/v97/roulet19a.html)
+[conference paper](http://proceedings.mlr.press/v97/roulet19a.html)
+[follow-up (theory)](https://github.com/vroulet/ilqc/blob/master/papers/ilqc_theory.pdf)
+[follow-up (implementation)](https://github.com/vroulet/ilqc/blob/master/papers/ilqc_algos.pdf)
+
 
 [**tpri**](https://github.com/vroulet/tpri)  
 Implementation of Target Propagation oracles for Recurrent Neural Networks (RNNs). Our implementation uses the analytical formulation of the inverse of the layers of a RNN rather than an inverse approximated by an auto-encoder. Our experimental results demonstrate the potential of Target Propagation on several tasks for very long RNNs.  
