@@ -17,7 +17,7 @@ Vincent Roulet, Corinne Jones, Zaid Harchaoui.
 **Differentiable Programming à la Moreau.**  
 Vincent Roulet, Zaid Harchaoui.  
 *(to appear) in Proceedings of the International Conference on Statistics and Signal Processing (ICASSP), 2022.*  
-[paper](https://arxiv.org/abs/2012.15458)
+[paper](/files/moreau_bp.pdf)
 
 **Discriminative Clustering with Representation Learning with any Ratio of Labeled to Unlabeled Data.**  
 Corinne Jones, Vincent Roulet, Zaid Harchaoui.  
