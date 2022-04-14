@@ -12,12 +12,12 @@ redirect_from:
 **A Representation-Focused Training Algorithm for Deep Networks.**  
 Vincent Roulet, Corinne Jones, Zaid Harchaoui.  
 *(to appear) in Proceedings of the IEEE Data Science and Learning Workshop (IEEEDSLW), 2022.*  
-[paper](/files/ulr.pdf)
+[paper](/files/ulr.pdf) [one slide summary](/files/ulr_brief.pdf)
 
 **Differentiable Programming à la Moreau.**  
 Vincent Roulet, Zaid Harchaoui.  
 *(to appear) in Proceedings of the International Conference on Statistics and Signal Processing (ICASSP), 2022.*  
-[paper](/files/moreau_bp.pdf)
+[paper](/files/moreau_bp.pdf) [one slide summary](/files/moreau_bp_brief.pdf)
 
 **Discriminative Clustering with Representation Learning with any Ratio of Labeled to Unlabeled Data.**  
 Corinne Jones, Vincent Roulet, Zaid Harchaoui.  
@@ -96,12 +96,14 @@ Corinne Jones, Vincent Roulet, Zaid Harchaoui.
 Vincent Roulet, Zaid Harchaoui.  
 [paper](https://arxiv.org/abs/2112.01453)
 [code](https://github.com/vroulet/tpri)
+[one slide summary](/files/tpri_brief.pdf)
 
 
 **Complexity Bounds of Iterative Linear Quadratic Optimization Algorithms for Discrete Time Nonlinear Control.**  
 Vincent Roulet, Siddharta Srinivasa, Maryam Fazel, Zaid Harchaoui.  
 [paper (theory)](https://github.com/vroulet/ilqc/blob/master/papers/ilqc_theory.pdf)
 [paper (implementations)](https://github.com/vroulet/ilqc/blob/master/papers/ilqc_algos.pdf)
+[slides](/files/ilqc_long.pdf)
 [code](https://github.com/vroulet/ilqc)
 
 
