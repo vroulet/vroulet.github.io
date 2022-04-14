@@ -96,7 +96,7 @@ Corinne Jones, Vincent Roulet, Zaid Harchaoui.
 Vincent Roulet, Zaid Harchaoui.  
 [paper](https://arxiv.org/abs/2112.01453)
 [code](https://github.com/vroulet/tpri)
-[one slide summary](/files/tpri_brief.pdf)
+[one slide summary](/files/target_prop_brief.pdf)
 
 
 **Complexity Bounds of Iterative Linear Quadratic Optimization Algorithms for Discrete Time Nonlinear Control.**  
