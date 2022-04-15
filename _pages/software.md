@@ -17,7 +17,7 @@ Toolbox for analyzing non-linear control algorithms from an optimization perspec
 [conference paper](http://proceedings.mlr.press/v97/roulet19a.html)
 [follow-up (theory)](https://github.com/vroulet/ilqc/blob/master/papers/ilqc_theory.pdf)
 [follow-up (implementation)](https://github.com/vroulet/ilqc/blob/master/papers/ilqc_algos.pdf)
-
+[notebook tutorial](https://github.com/vroulet/ilqc/blob/master/ilqc.ipynb)
 
 [**tpri**](https://github.com/vroulet/tpri)  
 Implementation of Target Propagation oracles for Recurrent Neural Networks (RNNs). Our implementation uses the analytical formulation of the inverse of the layers of a RNN rather than an inverse approximated by an auto-encoder. Our experimental results demonstrate the potential of Target Propagation on several tasks for very long RNNs.  

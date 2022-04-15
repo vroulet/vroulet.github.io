@@ -105,6 +105,7 @@ Vincent Roulet, Siddharta Srinivasa, Maryam Fazel, Zaid Harchaoui.
 [paper (implementations)](https://github.com/vroulet/ilqc/blob/master/papers/ilqc_algos.pdf)
 [slides](/files/ilqc_long.pdf)
 [code](https://github.com/vroulet/ilqc)
+[notebook tutorial](https://github.com/vroulet/ilqc/blob/master/ilqc.ipynb)
 
 
 
