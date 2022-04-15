@@ -12,7 +12,7 @@ I am an acting assistant professor in the [Department of Statistics](https://sta
 Previously, I was a postdoctoral fellow in the NSF-TRIPODS institute [ADSI](http://ads-institute.uw.edu/) (now [IFDS](https://ifds.info/)) at the [University of Washington](https://www.washington.edu/).
 I received my Ph.D. from [Ecole Normale Superieure de Paris](http://www.ens.fr) under the supervision of [Alexandre d'Aspremont](http://www.di.ens.fr/~aspremon/) within the [Sierra Team](http://www.di.ens.fr/sierra) led by [Francis Bach](http://www.di.ens.fr/~fbach/).
 
-I am currently interested in developing new algorithms and convergence guarantees for optimization algorithms in a differentiable programming framework
+I am currently interested in developing new algorithms and convergence guarantees for optimization algorithms in a differentiable programming framework.
 
 Contact me at [v] [my last name] [at] uw [dot] edu.  
 
