@@ -61,7 +61,7 @@ Vincent Roulet, Siddharta Srinivasa, Dmitry Drusvyatskiy, Zaid Harchaoui.
 [code](https://github.com/vroulet/ilqc)
 [poster](/files/reg_ctrl_poster.pdf)
 
-**Complexity versus Statistical Performance on Sparse Recovery Problems.**  
+**Computational Complexity versus Statistical Performance on Sparse Recovery Problems.**  
 Vincent Roulet, Nicolas Boumal, Alexandre d'Aspremont.  
 *Information and Inference: a Journal of the IMA, 2019.*  
 [paper](https://academic.oup.com/imaiai/advance-article/doi/10.1093/imaiai/iay020/5288445)
