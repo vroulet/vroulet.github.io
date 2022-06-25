@@ -8,7 +8,6 @@ redirect_from:
 
 {% include base_path %}
 **Differentiable Programming à la Moreau.**  
-Vincent Roulet, Zaid Harchaoui.  
 *International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022.*  
 Singapore (online), May 2022  
 [slides](/files/moreau_bp_talk.pdf)  
