@@ -7,13 +7,24 @@ redirect_from:
 ---
 
 {% include base_path %}
+**Differentiable Programming à la Moreau.**  
+Vincent Roulet, Zaid Harchaoui.  
+*International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022.*  
+Singapore (online), May 2022  
+[slides](/files/moreau_bp_talk.pdf)  
+
+**A Representation-Focused Training Algorithm for Deep Networks.**  
+*IEEE Data Science and Learning Workshop (IEEEDSLW), 2022.*  
+Singapore (online), May 2022  
+[slides](/files/ulr_talk.pdf)  
 
 **Complexity Bounds of Iterative Linear Quadratic Optimization Algorithms for Discrete Time Nonlinear Control.**  
+*SIAM PNW Conference.*  
+Vancouver, WA, USA, May 2022.  
+[slides](/files/ilqc_pnws.pdf)  
 *INFORMS Optimization Society Conference (IOS).*  
 Greenville, SC, USA, Mar. 2022.  
-[slides](/files/informs_2022.pdf)
-
-**Complexity Bounds of Iterative Linear Quadratic Optimization Algorithms for Discrete Time Nonlinear Control.**  
+[slides](/files/informs_2022.pdf)  
 *Machine Learning and Optimization Seminar at the University of Washington.*   
 Seattle, WA, USA, Mar. 2022.  
 [slides](/files/ml_opt_2022.pdf)
