@@ -103,13 +103,13 @@ Vincent Roulet, Zaid Harchaoui.
 Vincent Roulet, Siddharta Srinivasa, Maryam Fazel, Zaid Harchaoui.  
 [paper](https://arxiv.org/abs/2204.02322)
 [slides](/files/ilqc_long.pdf)
-[poster](/files/ilqc_poster.pdf)
+[poster](/files/ilqc_iccopt_poster.pdf)
 
 **Iterative Linear Quadratic Optimization for Nonlinear Control: Differentiable Programming Algorithmic Templates.**  
 Vincent Roulet, Siddharta Srinivasa, Maryam Fazel, Zaid Harchaoui.  
 *Companion report to Complexity Bounds of Iterative Linear Quadratic Optimization Algorithms for Discrete Time Nonlinear Control.*  
 [paper](https://arxiv.org/abs/2207.06362)
-[code](https://github.com/vroulet/ilqc) 
+[code](https://github.com/vroulet/ilqc)
 [notebook tutorial](https://github.com/vroulet/ilqc/blob/master/ilqc.ipynb)
 
 
