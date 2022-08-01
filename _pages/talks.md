@@ -19,7 +19,7 @@ Singapore (online), May 2022
 
 **Complexity Bounds of Iterative Linear Quadratic Optimization Algorithms for Discrete Time Nonlinear Control.**  
 *7th International Conference on Continuous Optimization.*  
-Bethlehem, PA, USA, July 2022.  
+Bethlehem, PA, USA, Jul. 2022.  
 **Best Poster Award**  
 [slides](/files/ilqc_iccopt.pdf)  [poster](/files/ilqc_iccopt_poster.pdf)  
 *3rd Biennial Meeting of the SIAM Pacific Northwest Section.*  
