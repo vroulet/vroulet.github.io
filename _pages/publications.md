@@ -11,8 +11,8 @@ redirect_from:
 ## Published
 **A Representation-Focused Training Algorithm for Deep Networks.**  
 Vincent Roulet, Corinne Jones, Zaid Harchaoui.  
-*(to appear) in Proceedings of the IEEE Data Science and Learning Workshop (IEEEDSLW), 2022.*  
-[paper](/files/ulr.pdf) [one slide summary](/files/ulr_brief.pdf) [slides](/files/ulr_talk.pdf)  
+*in 2022 IEEE Data Science and Learning Workshop (DSLW), 2022.*  
+[paper](https://ieeexplore.ieee.org/document/9820431) [long version](/files/ulr.pdf) [one slide summary](/files/ulr_brief.pdf) [slides](/files/ulr_talk.pdf)  
 
 **Differentiable Programming à la Moreau.**  
 Vincent Roulet, Zaid Harchaoui.  

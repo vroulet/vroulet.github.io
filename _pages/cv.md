@@ -8,20 +8,13 @@ redirect_from:
 
 {% include base_path %}
 
-## Education  
-### PhD  
-* [Ecole Normale Superieure de Paris](https://www.ens.psl.eu/), Université [PSL](https://www.psl.eu/en)   
-* Advisor [Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon/)  
+## Education    
+* PhD in Applied Mathematics, at [Ecole Normale Supérieure de Paris](https://www.ens.psl.eu/), [Université PSL](https://www.psl.eu/en), supervised by [Alexandre d'Aspremont](https://www.di.ens.fr/~aspremon/)    
+* Msc in Maths, Physics, Computer Science at [Ecole Polytechnique](https://www.polytechnique.edu/en), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en), (in French: *Ingénieur diplômé de l'École Polytechnique*) major in Machine Learning at [Master MVA](https://www.master-mva.com/)  
 
-### MSc  
-*  [Ecole Polytechnique](https://www.polytechnique.edu/en), [Institut Polytechnique de Paris](https://www.ip-paris.fr/en)  
-    * (French) *Ingénieur diplômé de l'École Polytechnique*  
-    * (English equivalent) *MSc in Maths, Physics, Computer Science*  
-* Major
-    * (French) *Master Mathématiques, Vision et Apprentissage*  
-    * (English equivalent) *MSc Mathematics, Vision, Learning*
 
 ## Awards  
+* Best paper award at ICCOPT 2022
 * University of Washington Data Science Postdoctoral Fellowship  
 * Outstanding reviewer for the Neural Information Processing Systems Conference, granted to 10% of the reviewers  
 * Doctoral Fellowship AMX from Ecole Polytechnique
