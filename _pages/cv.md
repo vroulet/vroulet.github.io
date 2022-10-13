@@ -14,7 +14,7 @@ redirect_from:
 
 
 ## Awards  
-* Best paper award at ICCOPT 2022
+* Best poster award at ICCOPT 2022
 * University of Washington Data Science Postdoctoral Fellowship  
 * Outstanding reviewer for the Neural Information Processing Systems Conference, granted to 10% of the reviewers  
 * Doctoral Fellowship AMX from Ecole Polytechnique
