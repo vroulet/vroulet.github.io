@@ -9,6 +9,25 @@ redirect_from:
 {% include base_path %}
 
 ## Published
+**Stochastic Optimization for Spectral Risk Measures.**  
+Ronak Mehta, Vincent Roulet, Krishna Pillutla, Lang Liu, Zaid Harchaoui.  
+*Proceedings of the 26th International Conference on Artificial Intelligence and Statistics, 2023.*  
+[paper](https://arxiv.org/pdf/2212.05149.pdf)
+[code](https://github.com/ronakdm/lerm)
+
+**Target Propagation via Regularized Inversion.**  
+Vincent Roulet, Zaid Harchaoui.  
+*Transactions in Machine Learning Research, 2023.*  
+[paper](https://arxiv.org/abs/2112.01453)
+[code](https://github.com/vroulet/tpri)
+[one slide summary](/files/target_prop_brief.pdf)
+
+**Revisiting Convolutional Neural Networks from the Viewpoint of Kernel-Based Methods.**  
+Corinne Jones, Vincent Roulet, Zaid Harchaoui.  
+*Journal of Computational and Graphical Statistics, 2022.*  
+[paper](https://arxiv.org/abs/1903.08131)
+[code](https://github.com/cjones6/yesweckn)
+
 **A Representation-Focused Training Algorithm for Deep Networks.**  
 Vincent Roulet, Corinne Jones, Zaid Harchaoui.  
 *in 2022 IEEE Data Science and Learning Workshop (DSLW), 2022.*  
@@ -86,18 +105,9 @@ Damien Scieur, Vincent Roulet, Francis Bach, Alexandre d'Aspremont.
 
 
 ## Working papers
-**Kernel-based Translations of Convolutional Networks.**  
-Corinne Jones, Vincent Roulet, Zaid Harchaoui.  
-[paper](https://arxiv.org/abs/1903.08131)
-[code](https://github.com/cjones6/yesweckn)
-
-
-**Target Propagation via Regularized Inversion.**  
-Vincent Roulet, Zaid Harchaoui.  
-[paper](https://arxiv.org/abs/2112.01453)
-[code](https://github.com/vroulet/tpri)
-[one slide summary](/files/target_prop_brief.pdf)
-
+**Modified Gauss-Newton Algorithms under Noise.**  
+Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
+[paper](https://krishnap25.github.io/papers/prox_linear.pdf)
 
 **Complexity Bounds of Iterative Linear Quadratic Optimization Algorithms for Discrete Time Nonlinear Control.**  
 Vincent Roulet, Siddharta Srinivasa, Maryam Fazel, Zaid Harchaoui.  
