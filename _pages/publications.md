@@ -15,27 +15,27 @@ Ronak Mehta, Vincent Roulet, Krishna Pillutla, Lang Liu, Zaid Harchaoui.
 [paper](https://arxiv.org/pdf/2212.05149.pdf)
 [code](https://github.com/ronakdm/lerm)
 
-**Target Propagation via Regularized Inversion.**  
+**Target Propagation via Regularized Inversion for Recurrent Neural Networks.**  
 Vincent Roulet, Zaid Harchaoui.  
 *Transactions in Machine Learning Research, 2023.*  
-[paper](https://arxiv.org/abs/2112.01453)
+[paper](https://openreview.net/forum?id=vxyjTUPV24)
 [code](https://github.com/vroulet/tpri)
 [one slide summary](/files/target_prop_brief.pdf)
 
 **Revisiting Convolutional Neural Networks from the Viewpoint of Kernel-Based Methods.**  
 Corinne Jones, Vincent Roulet, Zaid Harchaoui.  
 *Journal of Computational and Graphical Statistics, 2022.*  
-[paper](https://arxiv.org/abs/1903.08131)
+[paper](https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2163649?journalCode=ucgs20)
 [code](https://github.com/cjones6/yesweckn)
 
 **A Representation-Focused Training Algorithm for Deep Networks.**  
 Vincent Roulet, Corinne Jones, Zaid Harchaoui.  
-*in 2022 IEEE Data Science and Learning Workshop (DSLW), 2022.*  
+*2022 IEEE Data Science and Learning Workshop (DSLW), 2022.*  
 [paper](https://ieeexplore.ieee.org/document/9820431) [long version](/files/ulr.pdf) [one slide summary](/files/ulr_brief.pdf) [slides](/files/ulr_talk.pdf)  
 
 **Differentiable Programming à la Moreau.**  
 Vincent Roulet, Zaid Harchaoui.  
-*in Proceedings of the International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022.*  
+*Proceedings of the International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022.*  
 [paper](https://ieeexplore.ieee.org/document/9746423) [one slide summary](/files/moreau_bp_brief.pdf) [poster](/files/moreau_bp_poster.pdf) [slides](/files/moreau_bp_talk.pdf)  
 
 **Discriminative Clustering with Representation Learning with any Ratio of Labeled to Unlabeled Data.**  
