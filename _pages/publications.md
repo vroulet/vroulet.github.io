@@ -9,6 +9,13 @@ redirect_from:
 {% include base_path %}
 
 ## Published
+
+
+**Modified Gauss-Newton Algorithms under Noise.**  
+Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.    
+*2023 IEEE Statistical Signal Processing Workshop (SSP)*  
+[paper](https://krishnap25.github.io/papers/prox_linear.pdf)
+
 **Stochastic Optimization for Spectral Risk Measures.**  
 Ronak Mehta, Vincent Roulet, Krishna Pillutla, Lang Liu, Zaid Harchaoui.  
 *Proceedings of the 26th International Conference on Artificial Intelligence and Statistics, 2023.*  
@@ -105,9 +112,18 @@ Damien Scieur, Vincent Roulet, Francis Bach, Alexandre d'Aspremont.
 
 
 ## Working papers
-**Modified Gauss-Newton Algorithms under Noise.**  
-Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
-[paper](https://krishnap25.github.io/papers/prox_linear.pdf)
+
+**On the Interplay Between Stepsize Tuning and Progressive Sharpening.**  
+Vincent Roulet, Atish Agarwala, Fabian Pedregosa  
+[paper](https://arxiv.org/pdf/2312.00209.pdf)
+
+**Dual Gauss-Newton Directions for Deep Learning.**  
+Vincent Roulet, Mathieu Blondel  
+[paper](https://arxiv.org/pdf/2308.08886.pdf)
+
+**Distributionally Robust Optimization with Bias and Variance Reduction.**  
+Ronak Mehta, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui  
+[paper](https://arxiv.org/pdf/2310.13863.pdf)
 
 **Complexity Bounds of Iterative Linear Quadratic Optimization Algorithms for Discrete Time Nonlinear Control.**  
 Vincent Roulet, Siddharta Srinivasa, Maryam Fazel, Zaid Harchaoui.  
@@ -122,23 +138,6 @@ Vincent Roulet, Siddharta Srinivasa, Maryam Fazel, Zaid Harchaoui.
 [code](https://github.com/vroulet/ilqc)
 [notebook tutorial](https://github.com/vroulet/ilqc/blob/master/ilqc.ipynb)
 
-
-
-
-<!--
-## Working papers
-**Kernel-based Translations of Convolutional Networks.**  
-Corinne Jones, Vincent Roulet, Zaid Harchaoui.  
-[paper](https://arxiv.org/abs/1903.08131)
-[code](https://github.com/cjones6/yesweckn)
-
-**Iterative Hard Clustering of Features.**  
-Vincent Roulet, Fajwel Fogel, Alexandre d'Aspremont, Francis Bach.  
-[paper](https://hal.archives-ouvertes.fr/hal-01664964)  
-
-**Learning with Clustering Structure.**  
-Vincent Roulet, Fajwel Fogel, Alexandre d'Aspremont, Francis Bach.  
-[paper](https://arxiv.org/abs/1506.04908)   -->
 
 ## PhD Thesis  
 **On the Geometry of Optimization Problems and their Structure.**  
