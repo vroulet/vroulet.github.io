@@ -10,16 +10,25 @@ redirect_from:
 
 ## Published
 
+**Distributionally Robust Optimization with Bias and Variance Reduction.**  
+Ronak Mehta, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui.  
+*International Conference on Learning Representation (ICLR), 2024.*  
+[paper](https://openreview.net/pdf?id=TTrzgEZt9s)
+
+**On the Interplay Between Stepsize Tuning and Progressive Sharpening.**  
+Vincent Roulet, Atish Agarwala, Fabian Pedregosa.  
+*NeurIPS OPT 2023: Optimization for Machine Learning, 2023.*  
+[paper](https://openreview.net/pdf?id=jX7n3TWT0T)
 
 **Modified Gauss-Newton Algorithms under Noise.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.    
-*2023 IEEE Statistical Signal Processing Workshop (SSP)*  
+*2023 IEEE Statistical Signal Processing Workshop (SSP), 2023.*  
 [paper](https://krishnap25.github.io/papers/prox_linear.pdf)
 
 **Stochastic Optimization for Spectral Risk Measures.**  
 Ronak Mehta, Vincent Roulet, Krishna Pillutla, Lang Liu, Zaid Harchaoui.  
 *Proceedings of the 26th International Conference on Artificial Intelligence and Statistics, 2023.*  
-[paper](https://arxiv.org/pdf/2212.05149.pdf)
+[paper](https://proceedings.mlr.press/v206/mehta23b/mehta23b.pdf)
 [code](https://github.com/ronakdm/lerm)
 
 **Target Propagation via Regularized Inversion for Recurrent Neural Networks.**  
@@ -112,10 +121,6 @@ Damien Scieur, Vincent Roulet, Francis Bach, Alexandre d'Aspremont.
 
 
 ## Working papers
-
-**On the Interplay Between Stepsize Tuning and Progressive Sharpening.**  
-Vincent Roulet, Atish Agarwala, Fabian Pedregosa  
-[paper](https://arxiv.org/pdf/2312.00209.pdf)
 
 **Dual Gauss-Newton Directions for Deep Learning.**  
 Vincent Roulet, Mathieu Blondel  
