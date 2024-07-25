@@ -122,13 +122,17 @@ Damien Scieur, Vincent Roulet, Francis Bach, Alexandre d'Aspremont.
 
 ## Working papers
 
+**The Elements of Differentiable Programming.**  
+Mathieu Blondel, Vincent Roulet.  
+[book](https://arxiv.org/pdf/2403.14606)
+
+**Stepping on the Edge: Curvature Aware Learning Rate Tuners.**  
+Vincent Roulet, Atish Agarwala, Jean-Bastien Grill, Gregor Swirszcz, Mathieu Blondel, Fabian Pedregosa.  
+[paper](https://arxiv.org/pdf/2407.06183)
+
 **Dual Gauss-Newton Directions for Deep Learning.**  
 Vincent Roulet, Mathieu Blondel  
 [paper](https://arxiv.org/pdf/2308.08886.pdf)
-
-**Distributionally Robust Optimization with Bias and Variance Reduction.**  
-Ronak Mehta, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui  
-[paper](https://arxiv.org/pdf/2310.13863.pdf)
 
 **Complexity Bounds of Iterative Linear Quadratic Optimization Algorithms for Discrete Time Nonlinear Control.**  
 Vincent Roulet, Siddharta Srinivasa, Maryam Fazel, Zaid Harchaoui.  
